@@ -1,0 +1,12 @@
+{
+  "name": "SlotMachine",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/pl-Apps/pl-Slot-Machine",
+  "author": "Peppo",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "console-read-write": "^0.1.1"
+  }
+}
